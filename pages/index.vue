@@ -1,5 +1,5 @@
 <template> 
-   <section class="hero is-primary">
+   <section class="hero is-link">
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
@@ -7,7 +7,31 @@
       </h1>
     </div>
   </div>
-</section>
+  <div class="tabs is-toggle is-fullwidth">
+  <ul>
+    <li class="is-active">
+      <a>
+        <span>Pictures</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span>Music</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span>Videos</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span>Documents</span>
+      </a>
+    </li>
+  </ul>
+</div>
+ </section>
 </template> 
 <script>
 import AppLogo from '~/components/AppLogo.vue'
@@ -18,34 +42,3 @@ export default {
   }
 }
 </script>
-
-<style>
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
-</style>
