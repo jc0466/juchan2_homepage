@@ -26,9 +26,10 @@
       </a>
     </li>
   </ul>
-</div>
+</div>   
   </section>
- </section>
+   </section>
+   
 </template> 
 <script>
 import AppLogo from '~/components/AppLogo.vue'
