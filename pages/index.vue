@@ -7,30 +7,27 @@
       </h1>
     </div>
   </div>
+  <section class="hero is-dark">
   <div class="tabs is-toggle is-fullwidth">
   <ul>
     <li class="is-active">
       <a>
-        <span>Pictures</span>
+        <span>자기소개서</span>
       </a>
     </li>
     <li>
       <a>
-        <span>Music</span>
+        <span>나의활동</span>
       </a>
     </li>
     <li>
       <a>
-        <span>Videos</span>
-      </a>
-    </li>
-    <li>
-      <a>
-        <span>Documents</span>
+        <span>앞으로의 계획</span>
       </a>
     </li>
   </ul>
 </div>
+  </section>
  </section>
 </template> 
 <script>
