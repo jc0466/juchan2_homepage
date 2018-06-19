@@ -33,7 +33,7 @@
 <br>
 <article class="message">
       <div class="message-header">1. 교과활동</div>
-      <div class="message-body">1)클라우드 서비스</div>
+      <div class="message-body">1) 클라우드 서비스</div>
     </article>
     <article class="message">
       <div class="message-header">2. 비교과활동</div>
