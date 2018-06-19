@@ -34,6 +34,15 @@
   <article class="message">
       <div class="message-header">앞으로의 계획</div>
   </article>
+  <div id="notice">
+		<section>
+			<div id="coin-slider">
+				<img src="photo1.jpg">
+				<img src="photo2.jpg">
+				<img src="photo3.jpg">
+			</div>
+		</section>
+	</div>
   <table class="table">
   <tr>
       <th>6월</th>
@@ -80,3 +89,4 @@
   </table>
   </section>
   </template>
+  
