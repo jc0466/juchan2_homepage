@@ -38,17 +38,40 @@
 <br>
 <article class="message">
       <div class="message-header">자기소개서</div>
-      <div class="message-body">나는 임주찬입니다.</div>
+      <div class="message-body"><p>안녕하세요?</p>
+      <p>저, 임주찬은 현재 목원대학교 정보통신공학융합부 재학중이며 남다른 열정으로 사회에 이바지하고
+         자 노력하는 사람입니다.</p> 
+      <p>취미는 독서, 영화 시청입니다. 다른 사람과 소통을 하며 진실한 관계를 이어
+            가는 것을 좋아합니다.</p>
+			<p>무엇보다 제가 하는 일을 가장 좋아합니다. 저는 졸업작품에서 웹서버를 담당하고 있습니다.</p>
+			<p>또한 도맡아 진행하고 있습니다. 다른 사람에게 저의 작업한 소스를 보여줄 수 
+         있으며 무엇보다도</p>
+			<p>개발자라는 직업을 통해 다른 사람에게 도움을 주는 일을 하고 싶습니다.</p>
+   	  <p>무엇보다 항상 배움의 자세를 갖고 저 자신에게 부끄럽지 않은 사람이 되
+         고자 노력하겠습니다.</p>
+         <br>
+         <ol>
+				<li>생년월일 : 1994년 08월 07일</li>
+        <li>이름 : 임주찬</li>
+				<li>사는 곳 : 대전광역시 유성구 봉명동</li>
+				<li>이메일 : sa0466@nate.com</li>
+        </ol>
+        </div>
     </article>
   </section>
 </template> 
 
 <script>
-import AppLogo from '~/components/AppLogo.vue'
-
 export default {
-  components: {
-    AppLogo
+ name: 'myApp',
+ data() {
+ return {};
+  },
+ asyncData() {
+ return {};
+  },
+ methods: {
+    fun() { return {}; }
   }
-}
+};
 </script>
