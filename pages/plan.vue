@@ -37,9 +37,6 @@
   <div id="notice">
 		<section>
 			<div id="coin-slider">
-				<img src="photo1.jpg">
-				<img src="photo2.jpg">
-				<img src="photo3.jpg">
 			</div>
 		</section>
 	</div>
