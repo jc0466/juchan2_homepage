@@ -35,24 +35,48 @@
       <div class="message-header">앞으로의 계획</div>
   </article>
   <table class="table">
-  <thead>
-    <tr>
-      <th><abbr title="Position">Pos</abbr></th>
-      <th>Team</th>
-      <th><abbr title="Played">Pld</abbr></th>
-      <th><abbr title="Won">W</abbr></th>
-      <th><abbr title="Drawn">D</abbr></th>
-      <th><abbr title="Lost">L</abbr></th>
-      <th><abbr title="Goals for">GF</abbr></th>
-      <th><abbr title="Goals against">GA</abbr></th>
-      <th><abbr title="Goal difference">GD</abbr></th>
-      <th><abbr title="Points">Pts</abbr></th>
-      <th>Qualification or relegation</th>
+  <tr>
+      <th>6월</th>
+      <td>졸업작품 마무리 하기</td>
+      <td>자취방 이사하기</td>
+      <td></td>
     </tr>
-  </thead>
+     <tr>
+     <th>7월</th>
+      <td>매복사랑니 제거수술</td>
+      <td>자격증 준비</td>
+      <td>대덕인재개발원 입소</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>8월</th>
+      <td>프로그램 기초</td>
+      <td>자바기반 애플리케이션</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>9월</th>
+      <td>UI 설계 및 구현</td>
+      <td>웹기반 애플리케이션</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>10월</th>
+      <td>애플리케이션 통합</td>
+      <td>데이터베이스 SQL과 PL/SQL</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>11월</th>
+      <td>개방형 인공지능 API 활용</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>12월</th>
+      <td>팀별현업실무프로젝트</td>
+      <td>산업체 요구교과</td>
+      <td></td>
+    </tr>
   </table>
- 
-    
-
   </section>
   </template>
