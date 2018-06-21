@@ -30,16 +30,9 @@
 </div>
   </div>
   <br>
-  <br>
   <article class="message">
-      <div class="message-header">앞으로의 계획</div>
+      <div class="message-header">올해 계획</div>
   </article>
-  <div id="notice">
-		<section>
-			<div id="coin-slider">
-			</div>
-		</section>
-	</div>
   <table class="table">
   <tr>
       <th>6월</th>

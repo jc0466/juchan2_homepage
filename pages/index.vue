@@ -13,7 +13,7 @@
   <ul>
     <li class="is-active">
       <a>
-        <nuxt-link to="/index" class="navbar-item">자기소개서</nuxt-link>
+        <nuxt-link to="/index" class="navbar-item">소개</nuxt-link>
       </a>
     </li>
     <li>
@@ -35,7 +35,6 @@
           </figure>
       </div>
 <br>
-<br>
 <article class="message">
       <div class="message-header">자기소개서</div>
       <div class="message-body"><p>안녕하세요?</p>
@@ -50,12 +49,13 @@
    	  <p>무엇보다 항상 배움의 자세를 갖고 저 자신에게 부끄럽지 않은 사람이 되
          고자 노력하겠습니다.</p>
          <br>
-         <ol>
-				<li>생년월일 : 1994년 08월 07일</li>
-        <li>이름 : 임주찬</li>
-				<li>사는 곳 : 대전광역시 유성구 봉명동</li>
-				<li>이메일 : sa0466@nate.com</li>
-        </ol>
+         <div class="message-header">자기소개</div>
+         
+				<p>생년월일 : 1994년 08월 07일</p>
+        <p>이름 : 임주찬</p>
+				<p>사는 곳 : 대전광역시 유성구 봉명동</p>
+				<p>이메일 : sa0466@nate.com</p>
+       
         </div>
     </article>
   </section>
