@@ -13,7 +13,7 @@
   <ul>
     <li>
       <a>
-        <nuxt-link to="/index" class="navbar-item">자기소개서</nuxt-link>
+        <nuxt-link to="/index" class="navbar-item">소개</nuxt-link>
       </a>
     </li>
     <li class="is-active">

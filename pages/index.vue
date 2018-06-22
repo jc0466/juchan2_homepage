@@ -29,6 +29,7 @@
   </ul>
 </div>
   </div>
+  <br>
    <div class="tile is-parent"> 
           <figure class="image is-128x128">
             <img src="my.png" alt="">
